@@ -1,0 +1,10 @@
+#viet trong day thi tat ca cac file dc liet ke se k up dc len sv
+.env
+abc/index.js 
+index.js 
+#cach viet khac cua cai tren
+
+**.md 
+#tat ca md
+
+abc/
